@@ -2,7 +2,7 @@ Package: mypkgtemplate
 Title: A template for R package development
 Version: 0.1.0
 Authors@R: 
-    person("Bangou", "Zheng", , "bangyou.zheng@csiro.au", role = c("aut", "cre"))
+    person("Bangou", "Zheng", , "zheng.bangyou@gmail.com", role = c("aut", "cre"))
 Description: A template for creating R packages with best practices and common configurations.
 License: MIT + file LICENSE
 Encoding: UTF-8
