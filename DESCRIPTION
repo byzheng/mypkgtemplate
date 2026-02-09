@@ -1,9 +1,9 @@
-Package: <A new R package>
-Title: <Description of the package>
+Package: mypkgtemplate
+Title: A template for R package development
 Version: 0.1.0
 Authors@R: 
     person("Bangou", "Zheng", , "bangyou.zheng@csiro.au", role = c("aut", "cre"))
-Description: <Detailed description of the package>
+Description: A template for creating R packages with best practices and common configurations.
 License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
@@ -14,6 +14,6 @@ Imports:
 Suggests: 
     testthat (>= 3.0.0)
 Config/testthat/edition: 3
-URL: https://<domain>.bangyou.me/,
-    https://github.com/byzheng/<package>
-BugReports: https://github.com/byzheng/<package>/issues
+URL: https://mypkgtemplate.bangyou.me/,
+    https://github.com/byzheng/mypkgtemplate
+BugReports: https://github.com/byzheng/mypkgtemplate/issues
